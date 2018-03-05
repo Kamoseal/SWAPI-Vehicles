@@ -1,0 +1,11 @@
+.left{
+    float: left;
+    margin: 1%;  
+}
+.text-center{
+    text-align: center;
+}
+.whithHeigth{
+    height: 30rem;
+    width: 40rem;
+}
